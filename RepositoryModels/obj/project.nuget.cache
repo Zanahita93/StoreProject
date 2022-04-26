@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "cnM7SplJrbMxylito7t40n/3d8dvuc7U3LP86HtLFP3xuabsyAmckAebLFXwGbWsRLISKTpQSPnuul6jVRoWyg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ANNA\\source\\repos\\Repository\\RepositoryModels\\ProductModels.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ANNA\\.nuget\\packages\\automapper\\11.0.1\\automapper.11.0.1.nupkg.sha512",
+    "C:\\Users\\ANNA\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}
